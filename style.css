@@ -1,0 +1,17 @@
+.television {
+    background-color: #FEEAE9;
+}
+
+.button {
+    background-color: #FF136F;
+
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+}
